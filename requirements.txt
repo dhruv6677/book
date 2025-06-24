@@ -1,0 +1,5 @@
+playwright 
+chromadb 
+tiktoken 
+streamlit
+google-generativeai 
